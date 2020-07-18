@@ -2,7 +2,7 @@
   "name": "cy2neo",
   "version": "0.0.1",
   "authors": [
-    "Michael Hunger <github@jexp.de>"
+    "Dawson Wellman <dawson.wellm@gmail.com>"
   ],
   "description": "Cy2Neo Tiny Neo4j Cypher Workbench with Alchemy.js Viz",
   "main": "cy2neo.js",
